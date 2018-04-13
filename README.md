@@ -1,4 +1,4 @@
-# Build
+# Usage
 ```
 git clone https://github.com/doctornkz/socks5proxy.git
 ```
@@ -25,7 +25,7 @@ go build
 2018/04/13 16:53:53 Config generated...
 2018/04/13 16:53:53 Proxy object created...Listening on 0.0.0.0:1234
 ```
-#### Fuck RKN
+# Keep calm & Fuck RKN
 ```
 ....................../´¯/) 
 ....................,/¯../ 
